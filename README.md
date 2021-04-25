@@ -3,10 +3,12 @@ This repository contains the currently released files for the Yolo Flight Contro
 - a schematic pdf
 - PCB gerber files
 
-The flight controller is not yet ready for production and the design is still a prototype.
+The flight controller is not yet ready for production and the design is still in prototyping stage.
 
-If you decide to advertise or sell a product based on this design, please give attribution in this form:
+If you want to manufacture this FC, we strongly recommend contacting us before.
+If you decide to advertise or sell a product based on this design, please give attribution in the following manner:
 
-Yolo FC - Christian Weber, Christoph Redecker - https://github.com/crteensy/Yolo-files - CC-BY-SA 4.0
+Yolo FC - crteensy/chris_fly - https://github.com/crteensy/Yolo-files - CC-BY-SA 4.0
 
-either as part of the advertising or as part of the shipped product.
+as part of advertising and as part of a shipped product.
+
